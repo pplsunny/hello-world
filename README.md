@@ -1,7 +1,17 @@
 # hello-world
 On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
 
+Architectural Enhancement: I played a key role in the TTS Architecture Review Process (ARP) and actively participated in the ART and ARB processes. This included the integrated CIP DAG review in the first quarter and Customer-Credit Attribute Consumption from CFM and WLCR in the third and fourth quarters. These efforts standardized and streamlined the LMS Integration Platform (LIP).
 
+Continuous Improvement: Regular architecture design meetings were held to iterate the LIP solution, enhancing its functionality. I successfully completed system architecture documentation specifications in the first quarter and technical solutions, including integration with CFM, WLCR, and CIP, in the second quarter. By the third and fourth quarters, I implemented Customer-Credit Attribute Consumption from CFM and WLCR for GLS and provided Account posting restrictions for GCE.
+
+Advanced Function Development: I led efforts to design and develop advanced functions for the LMS Integration Platform. This included improving interface parameters, ensuring cache data consistency, and implementing API version control.
+
+CI/CD Optimization: My focus on enhancing our CI/CD process led me to study LightSpeed to optimize it. This included improving the BlackDuck scanning process and providing plug-in support for external third-party program integration and deployment.
+
+Continuous Learning: I dedicated time to improve my technical expertise, completing "Software Architecture: The Hard Parts" by the second quarter and "Building Microservices: Designing Fine-Grained Systems" by the third quarter.
+
+------------
 Risk & Control Goals: Enhancing Professional Quality and Mitigating Risks
 
 Compliance and Risk Management: Throughout 2023, I prioritized strict adherence to our company's rules and regulations. I consistently fulfilled my departmental responsibilities and ensured the smooth operation of all functions, which played a crucial role in preventing security risk incidents.
